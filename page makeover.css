@@ -1,12 +1,19 @@
+html{
+  background-image:url("wp4653144.jpg");
+  background-position: center center;
+  -Webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+  height: 100%;
+  overflow: hidden;
+
+
+}
 body{
-    background-image:
-  url("wp4653144.jpg");
-   background-color:
-   #cccccc;
-   
-   background-position: center;
-   background-repeat:no-repeat;
-    
+  height: 100%;
+  overflow: scroll;
+}
 
 }
 .arrow-highlight{
